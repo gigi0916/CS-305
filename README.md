@@ -15,7 +15,7 @@ Layers of Security
 Functional Code
 - To ensure that my code was functional and secure, I had to implement both dynamic and static testing. I had to conduct a manual review of the code base prior to running the program to identify what aspects or important security functions or properties were missing or inconsistent. I then had to run dependency checks to identify known vulnerabilities in the dependent libraries and ensure all components were up to date with the latest security patches. Finally, I had to run the program and ensure it built successfully and produced the expected output, confirming that all security implementations functioned correctly without effecting existing functionality.
 
-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+Resources and tools
 - The OWASP checks were by far the most interesting and useful tool I plan to use for future projects and assignments. When examining the before and after, it's an effective way to get an idea of why your program isn't functioning properly or running as securely as you may believe, and it also includes a detailed explanation as to why.
 
 Future employers
